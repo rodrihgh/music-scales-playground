@@ -7,7 +7,7 @@ dependencies:
   - jupyter=1.0.0
   - matplotlib=3.0.1
   - nbconvert=5.5.0
-  - nbformat=4.4.0
+  - nbformat>=5.0
   - notebook=6.0.0
   - numpy=1.16.4
   - python=3.7.0
